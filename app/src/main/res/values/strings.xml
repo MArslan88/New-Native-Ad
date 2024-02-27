@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">New Native Ad</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="native_advanced_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_ad_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
 </resources>
